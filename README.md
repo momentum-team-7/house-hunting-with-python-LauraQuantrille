@@ -83,3 +83,12 @@ Number of months: ???
 ## Credit
 
 This assignment is adapted from the [MIT Introduction to Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) course.
+
+
+annual_salary = 120000
+current_savings = 0
+monthly_salary = 10000 #annual_salary/12
+portion_saved = 10%
+monthly_amount_saved = monthly_salary * portion_saved
+monthly_amount_saved + interest_earned
+interest_earned = current_savings*0.04/12
